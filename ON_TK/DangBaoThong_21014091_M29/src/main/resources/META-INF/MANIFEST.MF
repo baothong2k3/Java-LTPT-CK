@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: error_prone_annotations-2.10.0.jar classmate-1.5.1.jar hiber
+ nate-commons-annotations-6.0.6.Final.jar jakarta.xml.bind-api-4.0.0.jar
+  caffeine-2.9.3.jar jakarta.activation-api-2.1.0.jar mariadb-java-clien
+ t-3.3.3.jar jna-platform-5.13.0.jar txw2-3.0.2.jar jcl-over-slf4j-2.0.7
+ .jar checker-qual-3.32.0.jar jaxb-runtime-3.0.2.jar jandex-3.1.2.jar by
+ te-buddy-1.14.11.jar jna-5.13.0.jar jakarta.inject-api-2.0.1.jar jboss-
+ logging-3.5.0.Final.jar jakarta.activation-2.0.1.jar jakarta.transactio
+ n-api-2.0.1.jar mssql-jdbc-12.3.0.jre17-preview.jar jakarta.persistence
+ -api-3.1.0.jar jaxb-core-3.0.2.jar waffle-jna-3.3.0.jar antlr4-runtime-
+ 4.13.0.jar slf4j-api-2.0.7.jar istack-commons-runtime-4.0.1.jar hiberna
+ te-core-6.4.4.Final.jar
+

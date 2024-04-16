@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="DangBaoThong_21014091_M29:jar">
+    <output-path>$PROJECT_DIR$/lib</output-path>
+    <root id="root">
+      <element id="archive" name="DangBaoThong_21014091_M29.jar">
+        <element id="directory" name="entity">
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Album.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Artist.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Genre.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Song.class" />
+        </element>
+        <element id="directory" name="dao">
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/AlbumDAO.class" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
