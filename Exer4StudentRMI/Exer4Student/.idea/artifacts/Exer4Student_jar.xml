@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Exer4Student:jar">
+    <output-path>$PROJECT_DIR$/../Exer4StudentClient/lib</output-path>
+    <root id="root">
+      <element id="archive" name="Exer4Student.jar">
+        <element id="directory" name="entity">
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/OfficeAssignment.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Course.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Department.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Instructor.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/OnlineCourse.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/OnsiteCourse.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Person.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Student.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/StudentGrade.class" />
+        </element>
+        <element id="directory" name="dao">
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/CourseDAO.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/DepartmentDAO.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/StudentDAO.class" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
